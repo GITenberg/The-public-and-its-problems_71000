@@ -1,0 +1,37 @@
+_repo: The-public-and-its-problems_71000
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dewey, John
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '446'
+    url: http://www.gutenberg.org/2009/agents/446
+    wikipedia: https://en.wikipedia.org/wiki/John_Dewey
+description: '"Result of lectures delivered during the month of January, nineteen
+  hundred and twenty six, upon the Larwill Foundation of Kenyon College, Ohio."'
+gutenberg_issued: '2023-06-20'
+identifiers:
+  gutenberg: '71000'
+language: en
+pgterms:marc904: https://archive.org/details/publicitsproblem0000john/page/n5/mode/2up
+pgterms:marc905: 20230203084356dewey
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Lukas Bystricky and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bAlan Swallow, $c1927, copyright 1954.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Democracy'
+- !lcsh 'Political science'
+- !lcsh 'State, The'
+- !lcc 'JC'
+- GITenberg
+tableOfContents: Search for the public -- Discovery of the state -- The democratic
+  state -- The eclipse of the public -- Search for the great community -- The problem
+  of method.
+title: The public and its problems
+url: http://www.gutenberg.org/ebooks/71000
